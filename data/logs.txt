@@ -1,0 +1,6 @@
+2025-11-05 08:45:22 INFO User123 logged in
+2025-11-05 08:47:11 ERROR Failed to connect to database
+2025-11-05 08:49:05 INFO User456 uploaded a file
+2025-11-05 08:51:44 WARN Disk space low
+2025-11-05 08:53:12 INFO User123 logged out
+2025-11-05 08:55:00 ERROR Timeout while reading from server
