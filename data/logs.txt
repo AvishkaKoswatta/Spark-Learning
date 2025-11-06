@@ -1,6 +1,15 @@
-2025-11-05 08:45:22 INFO User123 logged in
-2025-11-05 08:47:11 ERROR Failed to connect to database
-2025-11-05 08:49:05 INFO User456 uploaded a file
-2025-11-05 08:51:44 WARN Disk space low
+2025-11-05 08:45:22 INFO User123 logged in from IP 192.168.1.5
+2025-11-05 08:47:11 ERROR Failed to connect to database on db01
+2025-11-05 08:49:05 INFO User456 uploaded file report.pdf
+2025-11-05 08:50:40 INFO User789 viewed dashboard
+2025-11-05 08:51:44 WARN Disk space low on /dev/sda1
 2025-11-05 08:53:12 INFO User123 logged out
 2025-11-05 08:55:00 ERROR Timeout while reading from server
+2025-11-05 09:02:33 INFO User999 logged in from IP 10.0.0.4
+2025-11-05 09:04:15 INFO User999 uploaded file data.csv
+2025-11-05 09:07:22 WARN High memory usage detected
+2025-11-05 09:12:40 ERROR API request failed with status 500
+2025-11-05 09:18:55 INFO User456 logged out
+2025-11-05 09:20:31 INFO User789 logged in from IP 172.16.0.9
+2025-11-05 09:22:47 ERROR Disk write failure
+2025-11-05 09:25:00 INFO User789 generated report
